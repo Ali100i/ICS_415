@@ -1,4 +1,4 @@
-# Light Reflections
+# Light Reflections - Assignment 3
 
 This repository contains a simple implementation of a ray tracing algorithm in Python. The program generates a 3D-rendered scene with spheres, a cylinder, and a Stanford Rabbit (loaded from an OBJ file) with specular reflections, then saves the output as an image.
 
@@ -22,8 +22,8 @@ pip install numpy pillow
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Ali100i/LightReflections.git
-   cd LightReflections
+   git clone https://github.com/Ali100i/ICS_415.git
+   cd ICS_415/Assignment_3
    ```
 
 2. Run the script:
