@@ -93,7 +93,7 @@ lights = [
 
 ## Output
 
-The program renders a scene with spheres, cylinders, and an optional OBJ model, then saves the final image as `raytraced_scene.png`.
+The program renders a scene with spheres, cylinders, then saves the final image as `raytraced_scene.png`.
 
 ![Example Output](raytraced_scene.png)
 
