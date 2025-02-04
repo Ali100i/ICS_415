@@ -1,4 +1,4 @@
-# Ray Tracing with specular
+# Ray Tracing with specular - Assignment 2
 
 This repository contains a simple implementation of a ray tracing algorithm in Python. It generates a 3D-rendered scene with spheres and lights then saves the output as an image.
 
@@ -21,8 +21,8 @@ pip install numpy pillow
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Ali100i/RayTracingWithSpecular.git
-   cd RayTracingWithSpecular
+   git clone https://github.com/Ali100i/ICS_415.git
+   cd ICS_415/Assignment_2
    ```
 
 2. Run the script:
