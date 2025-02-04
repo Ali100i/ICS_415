@@ -1,4 +1,4 @@
-# Ray Meets Sphere
+# Ray Meets Sphere - Assignment 1
 
 This repository contains a simple implementation of a ray tracing algorithm in Python. It generates a 3D-rendered scene with spheres and saves the output as an image.
 
@@ -21,8 +21,8 @@ pip install numpy pillow
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Ali100i/RayMeetsSphere.git
-   cd RayMeetsSphere
+   git clone https://github.com/Ali100i/ICS_415.git
+   cd ICS_415/Assignment_1
    ```
 
 2. Run the script:
