@@ -12,7 +12,7 @@ This repository is divided into multiple sections based on assignments and chall
 3. **[Assignment 3](Assignment_3/)** - *Shadows and Reflections*
 
 ### 📂 In-Class Challenges
-- **[In-Class Challenge 1](InClass_Challenge_1/)** - *Ray Tracing with Cylinders and OBJ Models*
+- **[In-Class Challenge 1](InClass_challenge_1/)** - *Ray Tracing with Cylinders and OBJ Models*
 
 ## How to Use This Repository
 
