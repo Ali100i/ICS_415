@@ -1,4 +1,4 @@
-# ICS 415 - Computer Graphics and Ray Tracing
+# ICS 415 - Computer Graphics
 
 Welcome to the **ICS 415** repository! This repository contains assignments and in-class challenges related to **computer graphics and ray tracing**.
 
