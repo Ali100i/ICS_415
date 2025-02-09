@@ -74,10 +74,6 @@ lights = [
 ]
 ```
 
-### Stanford Rabbit (OBJ Model)
-
-The Stanford Rabbit is loaded from the `stanford_rabbit.obj` file using an OBJ loader function. Its position is controlled by an offset—in this project, the bunny is positioned to the left of the green sphere and one unit closer to the camera than the sphere. You can adjust the offset and scale in the `load_obj` function call within `render_scene()`.
-
 ## Output
 
 The program renders a scene that includes spheres, a cylinder, and the Stanford Rabbit, then saves the final image as `raytraced_scene.png`.
