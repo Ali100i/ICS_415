@@ -14,6 +14,9 @@ This repository is divided into multiple sections based on assignments and chall
 ### 📂 In-Class Challenges
 - **[In-Class Challenge 1](InClass_challenge_1/)** - *Ray Tracing with Cylinders and OBJ Models*
 
+### 📂 Projects
+- **[Project 1: Ray Tracer](Project_1/)** - A Python-based ray tracer that renders a 3D scene using recursive ray tracing.
+
 ## How to Use This Repository
 
 1. **Clone the repository** to your local machine:
