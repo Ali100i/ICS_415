@@ -102,9 +102,7 @@ camera = Camera(lookfrom, lookat, vup, vfov, aspect_ratio, aperture, focus_dist)
 
 The program renders a scene with randomly distributed spheres of different materials and saves the final image as `final_scene.png`.
 
-```
 ![Example Output](final_scene.png)
-```
 
 ### License
 
