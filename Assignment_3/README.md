@@ -1,4 +1,4 @@
-Reflections - Assignment 3
+# Reflections - Assignment 3
 
 This repository contains a simple implementation of a ray tracing algorithm in Python. The program generates a 3D-rendered scene with spheres, a cylinder, and a Stanford Rabbit (loaded from an OBJ file) with specular reflections, then saves the output as an image.
 
