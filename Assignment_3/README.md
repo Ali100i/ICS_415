@@ -13,26 +13,26 @@ Ensure you have Python 3 installed on your system along with the following libra
 
 You can install the required dependencies using pip:
 
-bash
+```bash
 pip install numpy pillow
-
+```
 
 ## How to Run
 
 1. Clone this repository to your local machine:
 
    
-bash
+```bash
    git clone https://github.com/Ali100i/ICS_415.git
    cd ICS_415/Assignment_3
-
+```
 
 2. Run the script:
 
    
-bash
+```bash
    python Light_reflections.py
-
+```
 
 3. After running, the script will generate an image file named raytraced_scene.png in the same directory.
 
@@ -50,14 +50,14 @@ Each sphere is defined by:
 - **Reflective**: The reflection coefficient (a value between 0 and 1).
 
 Example:
-python
+```python
 spheres = [
     Sphere(Vector3(0, -1, 3), 1, (255, 0, 0), 500, 0.09),  # Red sphere
     Sphere(Vector3(2, 0, 4), 1, (0, 0, 255), 500, 0.2),     # Blue sphere
     Sphere(Vector3(-2, 0, 4), 1, (0, 255, 0), 10, 0.2),     # Green sphere
     Sphere(Vector3(0, -5001, 0), 5000, (255, 255, 0), 1000, 0)  # Yellow sphere (ground)
 ]
-
+```
 
 ### Lights
 
@@ -68,12 +68,13 @@ Lights are defined by:
 - **direction**: The direction of the light (for directional lights).
 
 Example:
-python
+```python
 lights = [
     Light("ambient", 0.2),
     Light("point", 0.6, position=Vector3(2, 1, 0)),
     Light("directional", 0.2, direction=Vector3(1, 4, 4))
 ]
+```
 
 ## Output
 
