@@ -1,4 +1,4 @@
-### Ray Tracer - Project 1
+# Ray Tracer - Project 1
 
 This repository contains an implementation of a ray tracing algorithm in Python. The program generates a 3D-rendered scene with multiple spheres and materials (lambertian, metal, and dielectric) and saves the output as an image.
 
