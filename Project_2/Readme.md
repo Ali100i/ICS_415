@@ -20,7 +20,7 @@ This repository contains a custom shader for Unity that simulates raytraced roll
 1. **Clone or Download the Repository:**
 
    ```bash
-   git clone https://github.com/your_username/ICS_415.git
+   git clone https://github.com/Ali100i/ICS_415.git
    ```
 2. **Import into Unity**
    
