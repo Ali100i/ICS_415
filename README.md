@@ -16,6 +16,7 @@ This repository is divided into multiple sections based on assignments and chall
 
 ### 📂 Projects
 - **[Project 1: Ray Tracer](Project_1/)** - A Python-based ray tracer that renders a 3D scene using recursive ray tracing.
+- **[Project 2: Implementing shaders in HLSL on Unity](Project_2/)** - A Shader written in HLSL of two metal spheres going back and forth with a non-metallic sphere in the middle.
 
 ## How to Use This Repository
 
