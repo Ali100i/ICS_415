@@ -38,11 +38,15 @@ To run any of the assignments or challenges, ensure you have:
 - **Python 3+**
 - **NumPy**
 - **Pillow**
+- **Unity Game Engine**
 
-Install dependencies using:
+Install python dependencies using:
 ```bash
 pip install numpy pillow
 ```
+Download Unity through from the official website:
+https://unity.com/download
+
 
 ## Contribution
 
