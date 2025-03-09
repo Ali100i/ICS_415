@@ -1,4 +1,4 @@
-# Raytraced rolling metalic balls 
+# Raytraced rolling metalic balls - Project 2
 
 This repository contains a custom shader for Unity that simulates raytraced rolling metallic balls. The shader uses raytracing techniques to generate realistic reflections and dynamic, time-based animations. It is inspired by a Shadertoy implementation and includes environment mapping so that an external image is reflected on the metallic surfaces.
 
