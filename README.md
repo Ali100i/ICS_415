@@ -37,18 +37,21 @@ This repository is divided into multiple sections based on assignments and chall
 ## Requirements
 
 To run any of the assignments or challenges, ensure you have:
+
 - **Python 3+**
-- **NumPy**
-- **Pillow**
+  - Used for ray tracing assignments
+  - Install dependencies with:
+    ```bash
+    pip install numpy pillow
+    ```
+
 - **Unity Game Engine**
+  - Used in Project 2 (Shaders)
+  - Download from: https://unity.com/download
 
-Install python dependencies using:
-```bash
-pip install numpy pillow
-```
-Download Unity through from the official website:
-https://unity.com/download
-
+- **Java 17+ and LWJGL 3**
+  - Used in Project 3 (3D Game Engine)
+  - Setup with Eclipse (see `Project_3/README.md` for detailed steps)
 
 ## Contribution
 
