@@ -30,7 +30,7 @@ This is a lightweight Minecraft-style voxel engine built with Java and LWJGL 3. 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ICS_415.git
+git clone https://github.com/Ali100i/ICS_415.git
 cd ICS_415/Project_3
 ```
 
