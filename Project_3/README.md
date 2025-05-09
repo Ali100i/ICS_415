@@ -61,3 +61,12 @@ In Eclipse:
 ### 4. Running the project
 
   - Right-Click Main.java > Run as > Java Application
+
+### 5. Output
+
+Below is an example of the Minecraft-like game implemented in the 3d game engine
+![Example Output](Project_3_Ali_Almarzouq.mp4)
+
+### 6. License
+
+This project is open-source. Contributions are welcome — feel free to fork the repo, submit issues, or open pull requests!
