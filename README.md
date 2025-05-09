@@ -18,6 +18,7 @@ This repository is divided into multiple sections based on assignments and chall
 - **[Project 1: Ray Tracer](Project_1/)** - A Python-based ray tracer that renders a 3D scene using recursive ray tracing.
 - **[Project 2: Implementing shaders in HLSL on Unity](Project_2/)** - A Shader written in HLSL of two metal spheres going back and forth with a non-metallic sphere in the middle.
 - **[Project_3: 3D Game Engine in Java LWJGL](Project_3/)** - A 3D Game Engine created in Java using LWJGL library with an implementation of a minecraft-like game.
+- **[Project 4: A Bezier curve editor in React js](Project_4)** - A Bezier curve editor that allows the user to place points and draw a curve, delete last points & reset the canvas.
 
 ## How to Use This Repository
 
@@ -52,6 +53,9 @@ To run any of the assignments or challenges, ensure you have:
 - **Java 17+ and LWJGL 3**
   - Used in Project 3 (3D Game Engine)
   - Setup with Eclipse (see `Project_3/README.md` for detailed steps)
+ 
+- **Node.js version 18 or later**
+   - Used in Project 4 (Bezier curve editor) 
 
 ## Contribution
 
