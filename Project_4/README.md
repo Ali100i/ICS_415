@@ -25,7 +25,7 @@ This project is a visual editor built with React that allows you to interactivel
 2. **Navigate to Project 4 Folder:**
 
   ```bash
-  cd ICS_415/Project_4
+   cd ICS_415/Project_4
   ```
 
 3. **Install Dependencies:**
@@ -52,7 +52,7 @@ This project is a visual editor built with React that allows you to interactivel
 
 below is an example of the Bezier curve editor UI:
 
-
+![Example Output](Output.png)
 
 ## License
 
