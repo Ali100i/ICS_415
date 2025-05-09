@@ -1,12 +1,59 @@
-# React + Vite
+# Interactive Bézier Curve Editor - Project 4
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a visual editor built with React that allows you to interactively create and manipulate Bézier curves. Users can add control points by clicking on a canvas and dynamically visualize cubic and poly Bézier segments in real time.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Click-to-Add Points:** Add control points by clicking anywhere on the canvas.
+- **Supports Poly Bézier Curves:** Every group of 4 points creates a new Bézier segment.
+- **Live Curve Rendering:** Automatically redraws curves as you add or remove points.
+- **High-Resolution Canvas:** Crisp rendering using device pixel ratio scaling.
+- **Custom UI Styling:** A distinct modern theme for UI buttons and layout.
 
-## Expanding the ESLint configuration
+## Prerequisites
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Node.js:** Version 18 or later is recommended.
+- **Basic Knowledge:** Familiarity with React and browser-based canvas rendering is helpful.
+
+## Installation
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/Ali100i/ICS_415.git
+  `
+2. **Navigate to Project 4 Folder:**
+
+  ```bash
+  cd ICS_415/Project_4
+  ```
+
+3. **Install Dependencies:**
+
+   ```bash
+   npm install
+   ```
+   
+4. **Run the Development Server:**
+
+   ```bash
+   npm run dev
+   ```
+
+## Usage
+
+- Click anywhere on the canvas to add control points.
+- Every 4 points defines a new cubic Bézier curve.
+- Use the control buttons on the left to:
+- Remove the last point
+- Reset all points
+
+## Output
+
+below is an example of the Bezier curve editor UI:
+
+
+
+## License
+
+This project is open-source. Contributions are welcome — feel free to fork the repo, submit issues, or open pull requests!
