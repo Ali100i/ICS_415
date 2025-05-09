@@ -65,7 +65,8 @@ In Eclipse:
 ### 5. Output
 
 Below is an example of the Minecraft-like game implemented in the 3d game engine
-![Example Output](Project_3_Ali_Almarzouq.mp4)
+![Example Output](Output1.png)
+![Example Output](Output2.png)
 
 ### 6. License
 
